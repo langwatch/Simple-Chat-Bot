@@ -1,4 +1,4 @@
-# README for Conversational AI Application
+# Simple Conversational AI Application
 
 This README provides an overview and instructions for setting up and running a Conversational AI application. The application is designed to process PDF documents, store them as vector embeddings, and retrieve information during a conversation.
 
